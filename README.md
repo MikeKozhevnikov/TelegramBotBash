@@ -4,8 +4,8 @@ Based on monit2telegram.
 
 ## Requirements
 * Bash
-*CURL
-*Telegram Bot
+* CURL
+* Telegram Bot
 
 ## Usage
 
